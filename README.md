@@ -7,8 +7,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/NerbitCl/nerbit-encryptor">
-    <img src="https://github.com/NerbitCl/nerbit-encryptor/blob/master/img/nerbit.png" alt="Logo" width="216">
+  <a href="https://github.com/NerbitCl/encryptor">
+    <img src="https://github.com/NerbitCl/encryptor/blob/master/img/nerbit.png" alt="Logo" width="216">
   </a>
 
   <h3 align="center">Encryptor</h3>
@@ -17,9 +17,9 @@
     Custom encryption and decryption.
     <br />
     <br />
-    <a href="https://github.com/NerbitCl/nerbit-encryptor/issues">Report Bug</a>
+    <a href="https://github.com/NerbitCl/encryptor/issues">Report Bug</a>
     ·
-    <a href="https://github.com/NerbitCl/nerbit-encryptor/issues">Request Feature</a>
+    <a href="https://github.com/NerbitCl/encryptor/issues">Request Feature</a>
   </p>
 </p>
 
@@ -100,7 +100,7 @@ console.log('Decrypted:', decryptedText);
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/NerbitCl/nerbit-encryptor/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/NerbitCl/encryptor/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -125,13 +125,13 @@ Email: ricardo.palma@nerbit.cl
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/avmmodules/AVMWeather.svg?style=for-the-badge
-[contributors-url]: https://github.com/NerbitCl/nerbit-encryptor/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/avmmodules/AVMWeather.svg?style=for-the-badge
-[forks-url]: https://github.com/NerbitCl/nerbit-encryptor/network/members
-[stars-shield]: https://img.shields.io/github/stars/avmmodules/AVMWeather.svg?style=for-the-badge
-[stars-url]: https://github.com/NerbitCl/nerbit-encryptor/stargazers
-[issues-shield]: https://img.shields.io/github/issues/avmmodules/AVMWeather.svg?style=for-the-badge
-[issues-url]: https://github.com/NerbitCl/nerbit-encryptor/issues
-[license-shield]: https://img.shields.io/github/license/avmmodules/AVMWeather.svg?style=for-the-badge
-[license-url]: https://github.com/NerbitCl/nerbit-encryptor/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/NerbitCl/encryptor.svg?style=for-the-badge
+[contributors-url]: https://github.com/NerbitCl/encryptor/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NerbitCl/encryptor.svg?style=for-the-badge
+[forks-url]: https://github.com/NerbitCl/encryptor/network/members
+[stars-shield]: https://img.shields.io/github/stars/NerbitCl/encryptor.svg?style=for-the-badge
+[stars-url]: https://github.com/NerbitCl/encryptor/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NerbitCl/encryptor.svg?style=for-the-badge
+[issues-url]: https://github.com/NerbitCl/encryptor/issues
+[license-shield]: https://img.shields.io/github/license/NerbitCl/encryptor.svg?style=for-the-badge
+[license-url]: https://github.com/NerbitCl/encryptor/blob/master/LICENSE
