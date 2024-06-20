@@ -1,6 +1,6 @@
 {
   "name": "nerbit-encryptor",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A utility library for encryption and decryption using AES-256-CBC.",
   "author": "Nerbit",
   "license": "MIT",
